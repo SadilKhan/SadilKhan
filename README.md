@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi, I'm Mohammad Sadil Khan, an aspiring AI researcher from India, currently, I'm pursuing my Masters in [Data Science](https://www.cmi.ac.in/teaching/msc-data-science/) from [Chennai Mathematical Institute](https://www.cmi.ac.in/), Tamilnadu, India and have completed my Data Science Internship in  [Accenture Digital](https://drive.google.com/file/d/1PdKjjzUJjHb7aXVohAhblIsbwguYqVld/view?usp=sharing). Besides programming and books, I enjoy playing guitar and travelling. I am into Nature Photography and Candid shots and someday I will create my own website where I will share awesome photos from all around the world. Stay Tuned.
+Hi, I'm Mohammad Sadil Khan, an aspiring AI researcher from India, currently, I'm pursuing my Masters in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France and have completed my Data Science Internship in  [Accenture Digital](https://drive.google.com/file/d/1PdKjjzUJjHb7aXVohAhblIsbwguYqVld/view?usp=sharing). Besides programming and books, I enjoy playing guitar and travelling. I am into Nature Photography and Candid shots and someday I will create my own website where I will share awesome photos from all around the world. Stay Tuned.
 
 
 **Talking about Personal Stuffs:**
