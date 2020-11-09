@@ -23,7 +23,7 @@ Hi, I'm Mohammad Sadil Khan, an aspiring AI researcher from India, currently, I'
 - 🌱 I’m currently learning about Attention Mechanism; 
 - 👯 I’m looking to collaborate on Explainable AI 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume](https://drive.google.com/file/d/1bPetOsQQ5ZvJiYJb1veIkl5moyDd9ybk/view?usp=sharing)
+- 📝[Resume](https://drive.google.com/file/d/1qXIjOfwgeYSLk2RG14ACJZj-j3zKwZip/view?usp=sharing)
 
 **Languages and Tools:**  
 
