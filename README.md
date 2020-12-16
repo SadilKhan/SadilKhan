@@ -13,6 +13,7 @@
 <br />
 <br />
 ### Hey 👋🏽, I'm Sadil Khan
+
 I am an aspiring AI researcher from India. Currently, I'm pursuing my Masters in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France and I will join Geoloc Lab in Universite Gustave Eiffel in Nantes for my Research Internship in Summer 2021. My research interest is in Computer Vision, Deep Learning, Statistical Learning Theory and Interpretable Machine Learning. Besides programming and books, I enjoy playing guitar and travelling. I am into Nature Photography and Candid shots and someday I will create my own website where I will share awesome photos from all around the world. Stay Tuned.
 
 
