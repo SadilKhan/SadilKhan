@@ -2,7 +2,7 @@
 
 
 I am an aspiring AI researcher from India. 
-Currently, I'm pursuing my Masters in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France and I will join Geoloc Lab in Universite Gustave Eiffel in Nantes for my Research Internship in Summer 2021. 
+Currently, I'm pursuing my Masters in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France. 
 
 My research interest is in Computer Vision, Deep Learning, Statistical Learning Theory and Interpretable Machine Learning. 
 
