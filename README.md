@@ -27,7 +27,7 @@ Besides programming and books, I enjoy playing guitar and travelling. I am into 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Interpretablity of Machine Learning;
-- 🌱 I’m currently learning about Attention Mechanism; 
+- 🌱 I’m currently learning about GANs; 
 - 👯 I’m looking to collaborate on Explainable AI 🤝;
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://drive.google.com/file/d/1qXIjOfwgeYSLk2RG14ACJZj-j3zKwZip/view?usp=sharing)
