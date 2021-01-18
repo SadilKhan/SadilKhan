@@ -30,7 +30,9 @@ Besides writing codes and reading books, I enjoy playing guitar and I am deep in
 - 🌱 I’m currently learning about GANs; 
 - 👯 I’m looking to collaborate on Explainable AI 🤝;
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume](https://drive.google.com/file/d/1qXIjOfwgeYSLk2RG14ACJZj-j3zKwZip/view?usp=sharing)
+- 📝[Long CV](https://drive.google.com/file/d/1ODSIAk5iQGnSFbQVUQyT0-ezj11lbWoq/view?usp=sharing)
+- 📝[Short CV](https://drive.google.com/file/d/1Fr3m7mONO92zlEGXeXW0pCP8LovB5MUn/view?usp=sharing)
+
 
 **Languages and Tools:**  
 
