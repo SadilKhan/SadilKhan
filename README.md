@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm Sadil Khan
+### Hey 👋🏽, I'm Mohammad Sadil Khan
 
 
 I am an aspiring Computer Vision researcher from India. 
@@ -26,7 +26,7 @@ Besides writing codes and reading books, I enjoy playing guitar and I am deep in
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Interpretablity of Machine Learning;
+- 👨🏽‍💻 I’m currently working on developing a python library to explain K-Means. Check [here]() for more info;
 - 🌱 I’m currently learning about GANs; 
 - 👯 I’m looking to collaborate on Explainable AI 🤝;
 - 💬 Ask me about anything, I am happy to help;
