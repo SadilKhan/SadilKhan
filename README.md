@@ -9,6 +9,8 @@ My research interests are Computer Vision, Deep Learning, Statistical Learning T
 
 Besides writing codes and reading books, I enjoy playing guitar and I am deep into travelling. I sometimes indulge myself into Nature Photography and Candid shots and someday I will create my own website where I will share awesome photos from all around the world. Stay Tuned.
 
+Feel free to contact me
+
 <a href="https://www.linkedin.com/in/md-sadil-khan-a96568170/">
   <img align="left" alt="Sadil's LinKedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
