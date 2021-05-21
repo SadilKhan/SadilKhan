@@ -19,7 +19,7 @@ Feel free to contact me
 </a>
 
 <a href="mailto:edwardstephendrood@gmail.com?subject=Mail&body=Please Mail Me!">
-  <img align="left" alt="Sadil's Mail" width="22px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/New_Logo_Gmail.svg/634px-New_Logo_Gmail.svg.png"/>
+  <img align="left" alt="Sadil's Mail" width="22px" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>
 </a>
   
 <br />
