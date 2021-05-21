@@ -2,7 +2,7 @@
 
 
 I am an aspiring Computer Vision researcher from India. 
-Currently, I'm currently pursuing my Masters in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France. 
+Currently, I'm pursuing my Masters in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France. 
 
 My research interests are Computer Vision, Deep Learning, Statistical Learning Theory and Interpretable Machine Learning. 
 
