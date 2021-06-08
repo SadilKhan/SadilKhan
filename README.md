@@ -5,6 +5,7 @@ I am an aspiring Computer Vision researcher from India.
 Currently, I'm pursuing my Masters in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France. 
 
 My research interests are Computer Vision, Deep Learning, Statistical Learning Theory and Interpretable Machine Learning. 
+I am also interested in IOS development. I am currently learning Swift.
 
 
 Besides writing codes and reading books, I enjoy playing guitar and I am deep into travelling. I sometimes indulge myself into Nature Photography and Candid shots and someday I will create my own website where I will share awesome photos from all around the world. Stay Tuned.
