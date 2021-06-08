@@ -8,7 +8,7 @@ My research interests are Computer Vision, Deep Learning, Statistical Learning T
 I am also interested in IOS development. I am currently learning Swift.
 
 
-Besides writing codes and reading books, I enjoy playing guitar and I am deep into travelling. I sometimes indulge myself into Nature Photography and Candid shots and someday I will create my own website where I will share awesome photos from all around the world. Stay Tuned.
+Besides writing codes and reading books, I enjoy playing guitar🎸 and I am deep into travelling🚝. I sometimes indulge myself into Nature Photography and Candid shots📸 and someday I will create my own website where I will share awesome photos from all around the world. Stay Tuned.
 
 Feel free to contact me
 
