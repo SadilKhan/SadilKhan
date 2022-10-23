@@ -33,9 +33,7 @@ Feel free to contact me
 - 😇 I’m currently learning about SwiftUI; 
 - 🤝 I’m looking to collaborate on Explainable AI;
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Long CV](https://drive.google.com/file/d/1ODSIAk5iQGnSFbQVUQyT0-ezj11lbWoq/view?usp=sharing);
-- 📝[Short CV](https://drive.google.com/file/d/1Fr3m7mONO92zlEGXeXW0pCP8LovB5MUn/view?usp=sharing)
-
+- 📝[My Website](https://mdsadilkhan.netlify.app/);
 
 **Languages and Tools:**  
 
