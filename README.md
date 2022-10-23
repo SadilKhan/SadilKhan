@@ -45,4 +45,5 @@ Feel free to contact me
 <code><img height="40" src="http://www.pngall.com/wp-content/uploads/2017/05/Copyright-Symbol-R-Free-Download-PNG.png"></code>
 <code><img height="40" src="https://julialang.org/assets/infra/logo.svg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"></code>
+<code><img height="40" src="https://developer.apple.com/swift/images/swift-og.png"></code>
 
