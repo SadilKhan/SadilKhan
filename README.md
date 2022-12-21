@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm Mohammad Sadil Khan🇮🇳🇫🇷🇧🇪
 
 
-I am an aspiring Computer Vision researcher from India. 
+I am a PhD student at [CVI2 Lab](https://cvi2.uni.lu/) in University of Luxembourg. 
 I have completed my M.Sc in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France. 
 
 My research interests are Computer Vision, Deep Learning, Statistical Learning Theory and Interpretable Machine Learning. 
