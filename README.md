@@ -26,15 +26,6 @@ Feel free to contact me
 <br />
 <br />
 
-
-**Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on developing a python library to explain K-Means;
-- 😇 I’m currently learning about SwiftUI; 
-- 🤝 I’m looking to collaborate on Explainable AI;
-- 💬 Ask me about anything, I am happy to help;
-- 📝[My Website](https://mdsadilkhan.netlify.app/);
-
 **Languages and Tools:**  
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
