@@ -1,8 +1,8 @@
-### Hey 👋🏽, I'm Mohammad Sadil Khan🇮🇳🇫🇷🇧🇪
+### Hey 👋🏽, I'm Mohammad Sadil Khan 🇮🇳 🇫🇷 🇧🇪 🇱🇺
 
 
-I am a PhD student at [CVI2 Lab](https://cvi2.uni.lu/) in University of Luxembourg. 
-I have completed my M.Sc in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France. 
+I am a PhD student at [CVI2 Lab](https://cvi2.uni.lu/) in University of Luxembourg 🇱🇺. 
+I have completed my M.Sc in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France 🇫🇷. 
 
 My research interests are in Vision-Language Modeling, Scene and Shape Understanding and Computer Vision. 
 I am also interested in Software Engineering especially in IOS development. I am currently learning Swift.
