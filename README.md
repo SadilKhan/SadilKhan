@@ -1,11 +1,11 @@
 ### Hey 👋🏽, I'm Mohammad Sadil Khan 🇮🇳 🇫🇷 🇧🇪 🇱🇺 
 ![GitHub User's stars](https://img.shields.io/github/stars/SadilKhan?style=for-the-badge&labelColor=blue&color=black) ![GitHub followers](https://img.shields.io/github/followers/SadilKhan?style=for-the-badge&labelColor=red&color=black)
 
-I am currently doing PhD in Computer Vision at [Augmented Vision Lab](https://av.dfki.de/), [DFKI](https://www.dfki.de/web), Germany 🇩🇪. My research is based on Vision-Language Modeling of 3D shapes and scenes.
-I have completed my M.Sc in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France 🇫🇷. 
+🎓 I am currently doing PhD in Computer Vision at [Augmented Vision Lab](https://av.dfki.de/), [DFKI](https://www.dfki.de/web), Germany 🇩🇪. My research focuses on Vision-Language Modeling of 3D shapes and scenes.
 
-I am also interested in Software Engineering, especially in IOS development. I am currently learning Swift.
-Besides writing codes and reading books, I enjoy playing guitar🎸 and I am passionate about traveling 🚝. I have a YouTube channel where I regularly post my travel videos. [Link](https://www.youtube.com/channel/UC3TCC__F3NbO2I18D7nSP6g) 
+📚 I have completed my M.Sc in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France 🇫🇷. 
+
+In my spare time, I enjoy playing guitar 🎸 and I am passionate about videography 🎥 and traveling 🚝. I have a YouTube channel where I regularly post my travel videos. [Link](https://www.youtube.com/channel/UC3TCC__F3NbO2I18D7nSP6g) 
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC3TCC__F3NbO2I18D7nSP6g?style=social&labelColor=black&color=blue) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3TCC__F3NbO2I18D7nSP6g)
 
