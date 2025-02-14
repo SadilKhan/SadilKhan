@@ -1,11 +1,11 @@
 ### Hey 👋🏽, I'm Mohammad Sadil Khan 🇮🇳 🇫🇷 🇧🇪 🇱🇺 
 ![GitHub User's stars](https://img.shields.io/github/stars/SadilKhan?style=for-the-badge&labelColor=blue&color=black) ![GitHub followers](https://img.shields.io/github/followers/SadilKhan?style=for-the-badge&labelColor=red&color=black)
 
-🎓 I am currently doing PhD in Computer Vision at [Augmented Vision Lab](https://av.dfki.de/), [DFKI](https://www.dfki.de/web), Germany 🇩🇪. My research focuses on Multi-Modal 3D Reconstruction, and AI for CAD designing.
+🎓 I am currently working as an AI researcher and doing my PhD in Computer Vision at [Augmented Vision Lab](https://av.dfki.de/), [DFKI](https://www.dfki.de/web), Germany 🇩🇪. My research focuses on Multi-Modal 3D Reconstruction, and AI for CAD designing.
 
 📚 I have completed my M.Sc in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France 🇫🇷. 
 
-In my spare time, I enjoy playing guitar 🎸 and I am passionate about videography 🎥 and traveling 🚝. I have a YouTube channel where I post my travel videos. [Link](https://www.youtube.com/channel/UC3TCC__F3NbO2I18D7nSP6g) 
+In my spare time, I enjoy playing guitar 🎸 and am passionate about videography 🎥 and traveling 🚝. I have a YouTube channel where I post my travel videos. [Link](https://www.youtube.com/channel/UC3TCC__F3NbO2I18D7nSP6g) 
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC3TCC__F3NbO2I18D7nSP6g?style=social&labelColor=black&color=blue) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3TCC__F3NbO2I18D7nSP6g)
 
