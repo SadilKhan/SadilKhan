@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm Mohammad Sadil Khan 🇮🇳 🇫🇷 🇧🇪 🇱🇺 
 ![GitHub User's stars](https://img.shields.io/github/stars/SadilKhan?style=for-the-badge&labelColor=blue&color=black) ![GitHub followers](https://img.shields.io/github/followers/SadilKhan?style=for-the-badge&labelColor=red&color=black)
 
-🎓 I am currently working as an AI researcher and doing my PhD in Computer Vision at [Augmented Vision Lab](https://av.dfki.de/), [DFKI](https://www.dfki.de/web), Germany 🇩🇪. My research focuses on Multi-Modal 3D Reconstruction, and AI for CAD designing.
+🎓 I am currently working as a researcher and doing my PhD in Computer Vision at [Augmented Vision Lab](https://av.dfki.de/), [DFKI](https://www.dfki.de/web), Germany 🇩🇪. My research focuses on Multi-Modal 3D Reconstruction, and AI for CAD designing.
 
 📚 I have completed my M.Sc in [Machine Learning and Data Mining](https://mldm.univ-st-etienne.fr/) from [University Jean Monnet](https://www.univ-st-etienne.fr/fr/index.html), Saint Etienne, France 🇫🇷. 
 
