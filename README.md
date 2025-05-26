@@ -20,7 +20,7 @@
 ---
 
 ### 🎓 Education
-- 🡩🏽‍🎓 M.Sc. in Machine Learning & Data Mining  
+- 🎓 M.Sc. in Machine Learning & Data Mining  
   [University Jean Monnet](https://www.univ-st-etienne.fr/) 🇫🇷
 
 ---
