@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=40&pause=1000&color=1E3A8A&center=true&vCenter=true&width=800&height=80&lines=Mohammad+Sadil+Khan)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=400&size=18&pause=2500&color=94A3B8&center=true&vCenter=true&width=800&height=50&lines=PhD+Student+%C2%B7+DFKI+Augmented+Vision+Lab%2C+Germany;Research+Intern+%C2%B7+Huawei+Noah%27s+Ark+Lab%2C+London;3D+Generative+AI+%C2%B7+AI+for+CAD+%C2%B7+Computer+Graphics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans&weight=400&size=18&pause=2500&color=94A3B8&center=true&vCenter=true&width=800&height=50&lines=PhD+Student+%C2%B7+DFKI+Augmented+Vision+Lab%2C+Germany;3D+Generative+AI+%C2%B7+AI+for+CAD+%C2%B7+Computer+Graphics)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,7 +19,6 @@
 ### &nbsp;`$` whoami
 
 &nbsp;&nbsp;🎓 &nbsp;**PhD Student** · [DFKI Augmented Vision Lab](https://av.dfki.de/), RPTU, Germany 🇩🇪  
-&nbsp;&nbsp;🔬 &nbsp;**Research Intern** · Huawei Noah's Ark Lab, London 🇬🇧  
 &nbsp;&nbsp;💡 &nbsp;Passionate about **Creative AI** and building tools where artists and engineers co-create
 
 <br/>
